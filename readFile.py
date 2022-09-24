@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-from app import Grid
+from gameOfLife import Grid
 
 class Read:
     def getContent(self,routeFile):

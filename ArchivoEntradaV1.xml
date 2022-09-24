@@ -15,7 +15,7 @@
          <celda f="1" c="5" />
       </rejilla>
    </paciente>
-   <paciente>
+   <!--<paciente>
       <datospersonales>
          <nombre>Vegeta777</nombre>
          <edad>33</edad>
@@ -98,5 +98,5 @@
 
          
       </rejilla>
-   </paciente>
+   </paciente>-->
 </pacientes>
